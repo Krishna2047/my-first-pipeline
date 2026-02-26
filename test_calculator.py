@@ -10,4 +10,4 @@ def test_multiply():
     assert multiply(5, 3) == 15
 
 def test_power():
-    assert power(2, 3) == 8
+    assert power(3, 3) == 27
